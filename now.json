@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "x-bot1",
+  "builds": [{ "src": "server.js", "use": "@now/node" }],
+  "env": {
+    "TELEGRAM_API_KEY": "788097275:AAETloA4NOnpx32ZlIJLJrSBgzIQJya4M7s"
+  }
+}
